@@ -18,7 +18,7 @@ A web application to find a cocktail for tonight
 [Acknowledgements](#Acknowledgements)
 
 ## Introduction
-This web application is for a user to find a cocktail. It was built using Create React App, The Cocktail DB, and with this video from [Coding Addict](https://youtu.be/ly3m6mv5qvg?t=27597). This app uses API hook to fetch data about cocktails from The Cocktail DB and then display the information. 
+This web application is for a user to find a cocktail. It was built using Create React App, The Cocktail DB, and with this video from [Coding Addict](https://youtu.be/ly3m6mv5qvg?t=27597). This app uses a hook to fetch data about cocktails from The Cocktail DB and then display the information. 
 
 It takes advantage of components to create different parts of each part of the app. Also includes features such as a search bar that fetches and displays cocktails as the user enters text. It has multiple pages and uses React Router to create routes between pages. 
 
